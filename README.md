@@ -1,5 +1,5 @@
 # Big-Data
-Projects done in Big Data at Booth School of Business
+Projects done in Big Data class at Booth School of Business
 
 Course Description: 
 Course is about data mining: the analysis, exploration, and simplification of large high-dimensional datasets. 
